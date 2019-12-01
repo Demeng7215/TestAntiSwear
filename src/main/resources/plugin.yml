@@ -1,0 +1,8 @@
+name: TestAntiSwear
+version: ${project.version}
+main: com.demeng7215.testantiswear.TestAntiSwearPlugin
+api-version: 1.13
+prefix: AntiSwear
+authors: [Demeng7215]
+description: Turn certain words into stars on your server.
+website: https://demeng7215.com
